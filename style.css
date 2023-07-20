@@ -7,10 +7,12 @@ body{
     margin: 0;
     padding: 0;
     background-color:#23272a;
+    overflow-x: hidden;
 }
 
 #sec1{
     background-color: #5865f2;
+    margin-right: 0px;
     width: 100%;
     height: 567px;
     /* display: flex; */
@@ -171,6 +173,7 @@ a{
     width: 100%;
     background-color: #fff;
     display: flex;
+    margin-right: 0px;
 }
 .sec2img{
     width: 50%;
@@ -213,6 +216,7 @@ a{
     height: 693px;
     background-color:rgb(180, 175, 175);
     display: flex;
+    margin-right: 0px;
 }
 .sec3text{
     display: inline-block;
@@ -250,12 +254,14 @@ a{
         width: 100%;
         background-color: #fff;
         display: flex;
+        margin-right: 0px;
 }
 #sec5{
     width: 100%;
     height:1196px;
     background-color: #D3D3D3;
     margin: 0;
+    margin-right: 0px;
 }
 .sec5txt{
     text-align: center;
